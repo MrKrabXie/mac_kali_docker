@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  kali:
+    image: kalilinux/kali-rolling  # 使用 Kali Linux 官方镜像
+    container_name: kali-linux
+    environment:
+      - http_proxy=http://host.docker.internal:7890  # 设置代理
+      - https_proxy=http://host.docker.internal:7890 # 设置 HTTPS 代理
+    ports:
+      - "5901:5901"  # 映射 5901 端口 (VNC)
+    volumes:
+      - ./scripts:/scripts  # 映射当前文件夹的 /scripts 到容器
+    networks:
+      - bridge  # 使用桥接网络模式
+    stdin_open: true  # 保持标准输入打开
+    tty: true  # 允许伪终端
+    command: /bin/bash  # 确保容器启动时进入 bash
+
+networks:
+  bridge:
+    driver: bridge  # 使用桥接网络驱动

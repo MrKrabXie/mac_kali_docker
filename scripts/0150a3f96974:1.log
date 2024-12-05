@@ -1,0 +1,103 @@
+04/12/24 03:10:32 Xvnc version TightVNC-1.3.10
+04/12/24 03:10:32 Copyright (C) 2000-2009 TightVNC Group
+04/12/24 03:10:32 Copyright (C) 1999 AT&T Laboratories Cambridge
+04/12/24 03:10:32 All Rights Reserved.
+04/12/24 03:10:32 See http://www.tightvnc.com/ for information on TightVNC
+04/12/24 03:10:32 Desktop name 'X' (0150a3f96974:1)
+04/12/24 03:10:32 Protocol versions supported: 3.3, 3.7, 3.8, 3.7t, 3.8t
+04/12/24 03:10:32 Listening for VNC connections on TCP port 5901
+xrdb: No such file or directory
+xrdb: can't open file '/root/.Xresources'
+
+04/12/24 03:10:39 Got connection from client 192.168.65.1
+04/12/24 03:10:39 Using protocol version 3.8
+04/12/24 03:10:39 Full-control authentication passed by 192.168.65.1
+04/12/24 03:10:39 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+04/12/24 03:10:39 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+04/12/24 03:10:39 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+04/12/24 03:10:39 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+04/12/24 03:10:39 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+04/12/24 03:10:39 Using zlib encoding for client 192.168.65.1
+04/12/24 03:10:39 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+04/12/24 03:10:39 Enabling full-color cursor updates for client 192.168.65.1
+04/12/24 03:10:39 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+04/12/24 03:10:39 Pixel format for client 192.168.65.1:
+04/12/24 03:10:39   8 bpp, depth 6
+04/12/24 03:10:39   true colour: max r 3 g 3 b 3, shift r 4 g 2 b 0
+04/12/24 03:10:40 Using raw encoding for client 192.168.65.1
+04/12/24 03:10:40 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+04/12/24 03:10:40 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+04/12/24 03:10:40 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+04/12/24 03:10:40 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+04/12/24 03:10:40 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+04/12/24 03:10:40 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+04/12/24 03:10:40 Enabling full-color cursor updates for client 192.168.65.1
+04/12/24 03:10:40 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+04/12/24 03:10:40 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+04/12/24 03:10:40 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+04/12/24 03:10:40 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+04/12/24 03:10:40 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+04/12/24 03:10:40 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+04/12/24 03:10:40 Using zlib encoding for client 192.168.65.1
+04/12/24 03:10:40 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+04/12/24 03:10:40 Enabling full-color cursor updates for client 192.168.65.1
+04/12/24 03:10:40 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+04/12/24 03:10:40 Pixel format for client 192.168.65.1:
+04/12/24 03:10:40   32 bpp, depth 24, little endian
+04/12/24 03:10:40   true colour: max r 255 g 255 b 255, shift r 16 g 8 b 0
+04/12/24 03:10:40   no translation needed
+/root/.vnc/xstartup: 10: gnome: not found
+04/12/24 03:10:43 Client 192.168.65.1 gone
+04/12/24 03:10:43 Statistics:
+04/12/24 03:10:43   key events received 0, pointer events 73
+04/12/24 03:10:43   framebuffer updates 10, rectangles 61, bytes 47807
+04/12/24 03:10:43     cursor shape updates 3, bytes 1668
+04/12/24 03:10:43     raw rectangles 1, bytes 16396
+04/12/24 03:10:43     zlib rectangles 57, bytes 29743
+04/12/24 03:10:43   raw bytes equivalent 4889884, compression ratio 105.981577
+
+04/12/24 03:10:44 Got connection from client 192.168.65.1
+04/12/24 03:10:44 Using protocol version 3.8
+04/12/24 03:10:44 Full-control authentication passed by 192.168.65.1
+04/12/24 03:10:44 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+04/12/24 03:10:44 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+04/12/24 03:10:44 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+04/12/24 03:10:44 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+04/12/24 03:10:44 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+04/12/24 03:10:44 Using zlib encoding for client 192.168.65.1
+04/12/24 03:10:44 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+04/12/24 03:10:44 Enabling full-color cursor updates for client 192.168.65.1
+04/12/24 03:10:44 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+04/12/24 03:10:44 Pixel format for client 192.168.65.1:
+04/12/24 03:10:44   8 bpp, depth 6
+04/12/24 03:10:44   true colour: max r 3 g 3 b 3, shift r 4 g 2 b 0
+04/12/24 03:10:45 Using raw encoding for client 192.168.65.1
+04/12/24 03:10:45 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+04/12/24 03:10:45 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+04/12/24 03:10:45 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+04/12/24 03:10:45 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+04/12/24 03:10:45 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+04/12/24 03:10:45 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+04/12/24 03:10:45 Enabling full-color cursor updates for client 192.168.65.1
+04/12/24 03:10:45 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+04/12/24 03:10:46 rfbProcessClientNormalMessage: ignoring unknown encoding 24
+04/12/24 03:10:46 rfbProcessClientNormalMessage: ignoring unknown encoding 16
+04/12/24 03:10:46 rfbProcessClientNormalMessage: ignoring unknown encoding 22
+04/12/24 03:10:46 rfbProcessClientNormalMessage: ignoring unknown encoding 21
+04/12/24 03:10:46 rfbProcessClientNormalMessage: ignoring unknown encoding 15
+04/12/24 03:10:46 Using zlib encoding for client 192.168.65.1
+04/12/24 03:10:46 rfbProcessClientNormalMessage: ignoring unknown encoding -314
+04/12/24 03:10:46 Enabling full-color cursor updates for client 192.168.65.1
+04/12/24 03:10:46 rfbProcessClientNormalMessage: ignoring unknown encoding -223
+04/12/24 03:10:46 Pixel format for client 192.168.65.1:
+04/12/24 03:10:46   32 bpp, depth 24, little endian
+04/12/24 03:10:46   true colour: max r 255 g 255 b 255, shift r 16 g 8 b 0
+04/12/24 03:10:46   no translation needed
+04/12/24 03:10:50 Client 192.168.65.1 gone
+04/12/24 03:10:50 Statistics:
+04/12/24 03:10:50   key events received 0, pointer events 169
+04/12/24 03:10:50   framebuffer updates 3, rectangles 52, bytes 23590
+04/12/24 03:10:50     cursor shape updates 3, bytes 1668
+04/12/24 03:10:50     raw rectangles 1, bytes 16396
+04/12/24 03:10:50     zlib rectangles 48, bytes 5526
+04/12/24 03:10:50   raw bytes equivalent 3948580, compression ratio 180.119515

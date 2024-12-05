@@ -1,0 +1,5 @@
+vncserver :1
+vncserver -kill :1
+
+export USER=root
+tightvncserver :1 -geometry 1024x768 -depth 24
